@@ -36,5 +36,6 @@
 	<feature name="http://api.phonegap.com/1.0/network"/>
 
 	 <preference name="exit-on-suspend" value="false" />
+	 <gap:plugin name="org.apache.cordova.inappbrowser" version="0.2.4" />
 	 <gap:plugin name="com.google.cordova.admob" source="plugins.cordova.io" />
 </widget>
